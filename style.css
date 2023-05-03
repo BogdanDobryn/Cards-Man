@@ -77,7 +77,7 @@ body{
 .wrap_img2{
   width: 300px;
   height: 250px;
-  background-image: url(../img/man.png);
+  background-image: url(./img/man.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -88,7 +88,7 @@ body{
 .wrap_img3{
   width: 300px;
   height: 250px;
-  background-image: url(.../img/girl2.png);
+  background-image: url(./img/girl2.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
