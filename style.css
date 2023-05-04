@@ -187,7 +187,7 @@ color: #424242;
   .wrap_img{
     width: 200px;
     height: 150px;
-    background-image: url(/img/girl.png);
+    background-image: url(./img/girl.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -199,7 +199,7 @@ color: #424242;
   .wrap_img2{
     width: 200px;
     height: 150px;
-    background-image: url(/img/man.png);
+    background-image: url(./img/man.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -210,7 +210,7 @@ color: #424242;
   .wrap_img3{
     width: 200px;
     height: 150px;
-    background-image: url(/img/girl2.png);
+    background-image: url(./img/girl2.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -308,7 +308,7 @@ color: #424242;
   .wrap_img{
     width: 350px;
     height: 300px;
-    background-image: url(/img/girl.png);
+    background-image: url(./img/girl.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -320,7 +320,7 @@ color: #424242;
   .wrap_img2{
     width: 350px;
     height: 300px;
-    background-image: url(/img/man.png);
+    background-image: url(./img/man.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -331,7 +331,7 @@ color: #424242;
   .wrap_img3{
     width: 350px;
     height: 300px;
-    background-image: url(/img/girl2.png);
+    background-image: url(./img/girl2.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -433,7 +433,7 @@ color: #424242;
   .wrap_img{
     width: 350px;
     height: 300px;
-    background-image: url(/img/girl.png);
+    background-image: url(./img/girl.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -445,7 +445,7 @@ color: #424242;
   .wrap_img2{
     width: 350px;
     height: 300px;
-    background-image: url(/img/man.png);
+    background-image: url(./img/man.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -456,7 +456,7 @@ color: #424242;
   .wrap_img3{
     width: 350px;
     height: 300px;
-    background-image: url(/img/girl2.png);
+    background-image: url(./img/girl2.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
